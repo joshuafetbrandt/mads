@@ -42,13 +42,13 @@ The reading and video lectures took me 6 - 8 hours a week, the quiz was another 
 
 ### SIADS 505: Data Manipulation
 
-I found this class to be interesting. The material was fluxuated in depth, and you could have multiple points in the same lecture where is would go from 
+I found this class to be interesting. The material was fluxuated in depth, and you could have multiple points in the same lecture where it would go from 
 simple to complicated to simple to complicated to ... I spent about 10 hours a week between the lectures and homework. Grading expectations were always
 very clear. Grading was done promptly.
 
 ### SIADS 511: SQL & Databases
 
-This class was super easy, and took less than 2 hours a week with the lectures and home work. I was pretty angry with myself for not pairing this class with another. If you sat down and focused, you could do this entire class in less than one full calendar day including meals and movie. If you have any familiarity with SQL, just knock this out and move on to another class.
+This class was super easy, and took less than 2 hours a week with the lectures and homework. I was pretty angry with myself for not pairing this class with another. If you sat down and focused, you could do this entire class in less than one full calendar day including meals and movie. If you have any familiarity with SQL, just knock this out and move on to another class.
 
 ### SIADS 515: Efficient Data Processing
 
