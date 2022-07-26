@@ -34,11 +34,25 @@ Material covered in the class included the basics of matrices, basic probability
 problems per week. Most were done with a few lines of code, but there were random problems that needed to be done by hand. I could see knowing when to 
 do things by hand would have been hard for people learning the material for the first time.
 
+### SIADS 503: Data Science Ethics
+
+This class was super interesting. The presentation of the material was really well done, and the mix of required and recommended reading was very engaging. It was a little odd to have a virtual visit from a dog every week, but it added flavor to the class. The instructional team provided good feedback on the assignments, and the writing prompts for each memo were clear. The projected time committments for each assignment was about a half hour to high in each case, but it was very close in the scheme of things. Each week had a quiz you could attempt one time. You really need to do the reading and watch the lectures closely. There is a lot of application in the quizzes. 
+
+The reading and video lectures took me 6 - 8 hours a week, the quiz was another 20 minutes, and the writing assignment was another 4 hours or so. Considering all of the writing that occurred in this class, the instructional team was exceptional at getting the assignments back to us in a timely manner.
+
 ### SIADS 505: Data Manipulation
 
 I found this class to be interesting. The material was fluxuated in depth, and you could have multiple points in the same lecture where is would go from 
 simple to complicated to simple to complicated to ... I spent about 10 hours a week between the lectures and homework. Grading expectations were always
 very clear. Grading was done promptly.
+
+### SIADS 511: SQL & Databases
+
+This class was super easy, and took less than 2 hours a week with the lectures and home work. I was pretty angry with myself for not pairing this class with another. If you sat down and focused, you could do this entire class in less than one full calendar day including meals and movie. If you have any familiarity with SQL, just knock this out and move on to another class.
+
+### SIADS 515: Efficient Data Processing
+
+This class was worth taking, and surprising well timed with my professional life. It covered the basics of the linux command line and processing data with it, generators, caching, decorators, and code profiling in Jupyter. This class was about 5 hours a week of lecture, homework, and playing around with material. I will definitely be going back to this material and practicing with the code profiling, caching, and linux command line to process data.
 
 ### SIADS 521: Visual Exploration of Data
 
